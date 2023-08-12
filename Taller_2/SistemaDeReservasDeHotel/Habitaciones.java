@@ -25,14 +25,4 @@ public class Habitaciones {
         this.listaCliente = listaCliente;
     }
 
-
-//    public static void main(String[] args) {
-//        List<String> Habitacion = new ArrayList<>();
-//        Habitacion.add("Habitacion  NUMERO_1");
-//        Habitacion.add("Habitacion  NUMERO_2");
-//        Habitacion.add("Habitacion  NUMERO_3");
-//        Habitacion.add("Habitacion  NUMERO_4");
-//        Habitacion.add("Habitacion  NUMERO_5");
-//        System.out.println(Habitacion);
-//    }
 }
