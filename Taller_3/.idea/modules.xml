@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ejercicio2/Ejercicio2.iml" filepath="$PROJECT_DIR$/Ejercicio2/Ejercicio2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ejercicio3/Ejercicio3.iml" filepath="$PROJECT_DIR$/Ejercicio3/Ejercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio5/Ejercicio5.iml" filepath="$PROJECT_DIR$/Ejercicio5/Ejercicio5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taller_3.iml" filepath="$PROJECT_DIR$/Taller_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio10/ejercicio10.iml" filepath="$PROJECT_DIR$/ejercicio10/ejercicio10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio6/ejercicio6.iml" filepath="$PROJECT_DIR$/ejercicio6/ejercicio6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio7/ejercicio7.iml" filepath="$PROJECT_DIR$/ejercicio7/ejercicio7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio8/ejercicio8.iml" filepath="$PROJECT_DIR$/ejercicio8/ejercicio8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicio9/ejercicio9.iml" filepath="$PROJECT_DIR$/ejercicio9/ejercicio9.iml" />
     </modules>
   </component>
 </project>

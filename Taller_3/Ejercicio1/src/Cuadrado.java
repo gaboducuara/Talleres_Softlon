@@ -3,4 +3,7 @@ public class Cuadrado extends PoligonoRegular {
         double area = base * altura;
         return area;
     }
+
+    public Cuadrado() {
+    }
 }
