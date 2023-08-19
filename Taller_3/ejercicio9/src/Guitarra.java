@@ -1,6 +1,6 @@
 public class Guitarra extends Instrumento{
-    private String tocar() {
-        return null;
+    void tocar() {
+        System.out.println( "Tocando la guitarra");
     }
 
     public Guitarra() {

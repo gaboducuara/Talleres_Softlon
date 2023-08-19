@@ -1,6 +1,6 @@
 public class Piano extends Instrumento{
-    private String  tocar() {
-        return null;
+    protected void  tocar() {
+        System.out.println("Tocando Piano");;
     }
 
     public Piano() {

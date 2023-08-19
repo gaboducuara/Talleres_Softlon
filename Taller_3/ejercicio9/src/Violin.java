@@ -1,6 +1,6 @@
 public class Violin extends Instrumento{
-    private String  tocar() {
-        return null;
+    void tocar() {
+        System.out.println("Tocando el piano");;
     }
 
     public Violin() {
